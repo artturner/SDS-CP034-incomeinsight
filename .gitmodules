@@ -1,0 +1,3 @@
+[submodule "submissions/team-members/art-turner/streamlit_app"]
+	path = submissions/team-members/art-turner/streamlit_app
+	url = https://github.com/artturner/income-classifier-streamlit.git
